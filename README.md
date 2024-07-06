@@ -19,4 +19,4 @@ while(n < 0)
 
 Получить список связанных репозиториев `git remote`
 
-error
+no error
